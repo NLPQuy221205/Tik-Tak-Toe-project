@@ -16,7 +16,7 @@ You can obtain the game's source code by cloning the repository or downloading i
 
 **Clone repository:**
 ```sh
- git clone https://github.com/your-repo/tic-tac-toe.git
+ git clone https://github.com/NLPQuy221205/Tik-Tak-Toe-project.git
 ```
 
 **Hoặc tải ZIP:**
